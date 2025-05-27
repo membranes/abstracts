@@ -185,6 +185,20 @@ The formulae in focus are
 
 <br>
 
+#### Research
+* [A one-year-long research workshop on large multilingual models and datasets](https://bigscience.huggingface.co)
+  * [Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model](https://arxiv.org/abs/2211.02001)
+* [Investigate Clay](https://madewithclay.org/#introduction)
+  * [The State of AI in EO](https://www.linkedin.com/pulse/state-ai-eo-bruno-sanchez-andrade-nuño-kogxf)
+  * [National Agriculture Imagery Program (NAIP) data embedded with Clay v1.5 (rev2)](https://source.coop/clay/clay-v1-5-naip-2)
+  * [National Agriculture Imagery Program](https://naip-usdaonline.hub.arcgis.com)
+  * [National Agriculture Imagery Program](https://en.wikipedia.org/wiki/National_Agriculture_Imagery_Program)
+  * [Bruno Sanchez-Andrade Nuño](https://www.linkedin.com/in/nasonurb/)
+
+
+
+<br>
+
 #### Optimisation
 
 * [2.2 Transformer Model $\odot$ Position Information in Transformers: An Overview](https://direct.mit.edu/coli/article/48/3/733/111478/Position-Information-in-Transformers-An-Overview): Study this paper for an understanding of an *unknown* transformer model function.
