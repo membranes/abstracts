@@ -16,6 +16,9 @@
   * [Steps & Epochs](#steps--epochs)
   * [Classes of interest](#classes-of-interest)
 * [References](#references)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Mathematics](#mathematics)
+  * [Interfaces](#interfaces)
 
 <br>
 
@@ -231,6 +234,18 @@ The formulae in focus are
 * [Get Started with Distributed Training using Hugging Face Transformers](https://docs.ray.io/en/latest/train/getting-started-transformers.html)
 * [Visualizing Population Based Training (PBT) Hyperparameter Optimization](https://docs.ray.io/en/latest/tune/examples/pbt_visualization/pbt_visualization.html)
 * [Displaying Mathematics Formulae](https://en.wikipedia.org/wiki/Help:Displaying_a_formula)
+
+
+<br>
+
+### Interfaces
+
+#### GRADIO
+
+* [button](https://www.gradio.app/docs/gradio/button)
+* [space embedding](https://huggingface.co/docs/hub/spaces-embed)
+* [gradio spaces](https://huggingface.co/docs/hub/spaces-sdks-gradio)
+* [entity recognition interface](https://www.gradio.app/guides/named-entity-recognition)
 
 
 <br>
