@@ -19,6 +19,9 @@ theme:
   palette:
     primary: orange
     accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 
 # JavaScript
