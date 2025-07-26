@@ -21,7 +21,7 @@ RUN apt update && apt -q -y upgrade && apt -y install vim && apt -y install sudo
 
 
 # Port
-EXPOSE 8050
+EXPOSE 8000
 
 
 # ENTRYPOINT
