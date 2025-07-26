@@ -1,4 +1,7 @@
 site_name: ABSTRACTS
 site_url: https://membranes.github.io/abstracts
+
+copyright: Copyright &copy; Artificial Intelligence Unit
+
 theme:
   name: material
