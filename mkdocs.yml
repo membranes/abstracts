@@ -5,3 +5,5 @@ copyright: Copyright &copy; Artificial Intelligence Unit
 
 theme:
   name: material
+  palette:
+    primary: orange
