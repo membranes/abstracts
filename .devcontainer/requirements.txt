@@ -1,5 +1,4 @@
 mkdocs-material>=9.6.13
-requests>=2.32.2
 pytest>=8.3
 coverage>=7.7.1
 pytest-cov>=6.1.0
