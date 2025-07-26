@@ -1,17 +1,26 @@
+# Preliminaries
 site_name: ABSTRACTS
 site_url: https://membranes.github.io/abstracts
 site_description: About token classification via the fine tuning of deep learning transformer architectures.
 
+
+# Repository
 repo_name: membranes.github.io/abstracts
 repo_url: https://membranes.github.io/abstracts
 
+
+# Copyright
 copyright: Copyright &copy; Artificial Intelligence Unit
 
+
+# Theme
 theme:
   name: material
   palette:
     primary: orange
 
+
+# JavaScript
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
