@@ -214,6 +214,7 @@ The formulae in focus are
 * [Why Do We Need Weight Decay in Modern Deep Learning?](https://arxiv.org/pdf/2310.04415)
 * [Hyperparameter Optimization For LLMs: Advanced Strategies](https://neptune.ai/blog/hyperparameter-optimization-for-llms)
 * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
+* [Hyperparameter Search with the Huggingface Trainer](https://blog.franglen.io/posts/2025/03/08/hyperparameter-search.html)
 
 
 <br>
