@@ -1,0 +1,4 @@
+site_name: ABSTRACTS
+site_url: https://membranes.github.io/abstracts
+theme:
+  name: material
