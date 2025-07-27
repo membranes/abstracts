@@ -248,6 +248,18 @@ The formulae in focus are
 * [gradio spaces](https://huggingface.co/docs/hub/spaces-sdks-gradio)
 * [entity recognition interface](https://www.gradio.app/guides/named-entity-recognition)
 
+<br>
+
+### Documenting
+
+#### MkDocs
+
+* [MkDocs & GitHub Pages](https://www.mkdocs.org/user-guide/deploying-your-docs)
+* [MkDocs Setup](https://squidfunk.github.io/mkdocs-material/setup)
+* [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started)
+* [MkDocs GitHub](https://github.com/squidfunk/mkdocs-material/tree/master)
+* [Turing Commons](https://alan-turing-institute.github.io/turing-commons)
+* [Turing Commons GitHub](https://github.com/alan-turing-institute/turing-commons/tree/main)
 
 <br>
 <br>
