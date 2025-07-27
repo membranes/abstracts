@@ -20,8 +20,8 @@ theme:
     primary: orange
     accent: amber
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Noto Sans
+    code: Noto Sans Mono
 
 
 # JavaScript
