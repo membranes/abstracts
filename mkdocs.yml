@@ -1,6 +1,7 @@
 # Preliminaries
 site_name: ABSTRACTS
 site_url: https://membranes.github.io/abstracts
+site_author: Artificial Intelligence Unit
 site_description: About token classification via the fine tuning of deep learning transformer architectures.
 
 
@@ -16,6 +17,24 @@ copyright: Copyright &copy; Artificial Intelligence Unit
 # Theme
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
   palette:
     primary: orange
     accent: amber
@@ -69,4 +88,5 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Getting Started:
+      - Starting: getting-started.md
