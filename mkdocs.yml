@@ -88,12 +88,11 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Getting Started:
-      - Starting: getting-started.md
-  - About:
+  - Hub: hub.md
+  - Background:
       - Introduction: about-introduction.md
       - An Application: about-application.md
-  - Pages:
+  - Development:
       - Data: pages-data.md
-      - Model Development: pages-model-development.md
+      - Modelling: pages-model-development.md
   - Definitions: definitions.md
