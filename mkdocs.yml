@@ -90,3 +90,10 @@ markdown_extensions:
 nav:
   - Getting Started:
       - Starting: getting-started.md
+  - About:
+      - Introduction: about-introduction.md
+      - An Application: about-application.md
+  - Pages:
+      - Data: pages-data.md
+      - Model Development: pages-model-development.md
+  - Definitions: definitions.md
