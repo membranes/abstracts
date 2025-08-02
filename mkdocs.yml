@@ -1,0 +1,98 @@
+# Preliminaries
+site_name: ABSTRACTS
+site_url: https://membranes.github.io/abstracts
+site_author: Artificial Intelligence Unit
+site_description: About token classification via the fine tuning of deep learning transformer architectures.
+
+
+# Repository
+repo_name: membranes.github.io/abstracts
+repo_url: https://membranes.github.io/abstracts
+
+
+# Copyright
+copyright: Copyright &copy; Artificial Intelligence Unit
+
+
+# Theme
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  palette:
+    primary: orange
+    accent: amber
+  font:
+    text: Noto Sans
+    code: Noto Sans Mono
+
+
+# JavaScript
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+
+# Python Markdown & Python Markdown Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - Hub: hub.md
+  - Background:
+      - Introduction: background-introduction.md
+      - An Application: background-application.md
+  - Development:
+      - Data: development-data.md
+      - Modelling: development-modelling.md
+  - Definitions: definitions.md
+  - References: references.md

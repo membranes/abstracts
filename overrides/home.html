@@ -1,0 +1,27 @@
+{% extends "main.html" %}
+
+{% block announce %}
+<p>Please be patient, almost there.</p>
+{% endblock %}
+
+{% block content %}
+<style>
+    .flex-container{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .landing-text{
+        width: 65%;
+    }
+</style>
+<section class="flex-container md-typeset">
+  <div class="landing-text">
+    <h1>The Artificial Intelligence Unit</h1>
+    <p>{{ config.site_description }}</p>
+    <a href="{{ page.next_page.url }}hub" class="md-button md-button--primary">
+      READ
+    </a>
+  </div>
+</section>
+{% endblock %}
