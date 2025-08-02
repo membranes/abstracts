@@ -90,9 +90,10 @@ markdown_extensions:
 nav:
   - Hub: hub.md
   - Background:
-      - Introduction: about-introduction.md
-      - An Application: about-application.md
+      - Introduction: background-introduction.md
+      - An Application: background-application.md
   - Development:
-      - Data: pages-data.md
-      - Modelling: pages-model-development.md
+      - Data: development-data.md
+      - Modelling: development-modelling.md
   - Definitions: definitions.md
+  - References: references.md
