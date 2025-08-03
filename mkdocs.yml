@@ -43,6 +43,11 @@ theme:
     code: Noto Sans Mono
 
 
+# Watch
+watch:
+  - includes
+
+
 # JavaScript
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -84,6 +89,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 
 # Page tree
 nav:
