@@ -1,0 +1,14 @@
+
+@import url("https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/flickity/3.0.0/flickity.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/themes/prism.min.css");
+
+.md-typeset code {
+    background-color:var(--md-code-bg-color);
+    border-radius:.1rem;
+    -webkit-box-decoration-break:clone;
+    box-decoration-break:clone;
+    font-size:1.10em;
+    padding:0 .2941176471em;
+    word-break:break-word
+}
