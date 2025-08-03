@@ -1,5 +1,5 @@
 
-# A Token Classification Application
+# Application
 
 This section outlines a plausible $(a)$ problem statement, $(b)$ corresponding outcome expectations/underlying aims, and $(c)$ deployment goal vis-à-vis token classification model development.
 

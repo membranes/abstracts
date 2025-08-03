@@ -1,9 +1,7 @@
 ---
 template: home.html
-title: Abstracts
+title: Token Classification
 social:
   cards_layout_options:
     title: Token Classification
 ---
-
-These pages explain initial phase of the ...

@@ -1,13 +1,13 @@
 # Preliminaries
-site_name: ABSTRACTS
+site_name: Token Classification
 site_url: https://membranes.github.io/abstracts
 site_author: Artificial Intelligence Unit
 site_description: About token classification via the fine tuning of deep learning transformer architectures.
 
 
 # Repository
-repo_name: membranes.github.io/abstracts
-repo_url: https://membranes.github.io/abstracts
+repo_name: github.com/membranes/abstracts
+repo_url: https://github.com/membranes/abstracts
 
 
 # Copyright
@@ -38,13 +38,27 @@ theme:
   palette:
     primary: orange
     accent: amber
+  icon:
+    admonition:
+      example: material/gate-alert
   font:
-    text: Noto Sans
-    code: Noto Sans Mono
+    text: Quantico
+    code: Iceland
+
+
+# Watch
+watch:
+  - includes
+
+
+# CSS
+extra_css:
+  - assets/stylesheets/extra.css
 
 
 # JavaScript
 extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
@@ -84,15 +98,19 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+
 
 # Page tree
 nav:
-  - Hub: hub.md
-  - Background:
-      - Introduction: background-introduction.md
-      - An Application: background-application.md
-  - Development:
+  - Preliminaries:
+      - Aim: preliminaries-aim.md
+      - Assets: preliminaries-assets.md
+      - Application: preliminaries-application.md
+  - Model Development&#58; Rough Notes:
+      - Development Approach: development-approach.md
       - Data: development-data.md
       - Modelling: development-modelling.md
-  - Definitions: definitions.md
   - References: references.md
