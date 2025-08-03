@@ -38,9 +38,12 @@ theme:
   palette:
     primary: orange
     accent: amber
-  font:
-    text: Noto Sans
-    code: Noto Sans Mono
+  icon:
+    admonition:
+      example: material/gate-alert
+    font:
+      text: Quantico
+      code: Iceland
 
 
 # Watch
