@@ -50,8 +50,6 @@
   * [National Agriculture Imagery Program](https://en.wikipedia.org/wiki/National_Agriculture_Imagery_Program)
   * [Bruno Sanchez-Andrade Nuño](https://www.linkedin.com/in/nasonurb/)
 
-
-
 <br>
 
 ### Optimisation
@@ -67,7 +65,6 @@
 * [Hyperparameter Optimization For LLMs: Advanced Strategies](https://neptune.ai/blog/hyperparameter-optimization-for-llms)
 * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
 * [Hyperparameter Search with the Huggingface Trainer](https://blog.franglen.io/posts/2025/03/08/hyperparameter-search.html)
-
 
 <br>
 
@@ -88,7 +85,6 @@
 * [Visualizing Population Based Training (PBT) Hyperparameter Optimization](https://docs.ray.io/en/latest/tune/examples/pbt_visualization/pbt_visualization.html)
 * [Displaying Mathematics Formulae](https://en.wikipedia.org/wiki/Help:Displaying_a_formula)
 
-
 <br>
 
 ## Interfaces
@@ -99,35 +95,6 @@
 * [space embedding](https://huggingface.co/docs/hub/spaces-embed)
 * [gradio spaces](https://huggingface.co/docs/hub/spaces-sdks-gradio)
 * [entity recognition interface](https://www.gradio.app/guides/named-entity-recognition)
-
-<br>
-
-## Documenting
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-### MkDocs
-
-* [MkDocs & GitHub Pages](https://www.mkdocs.org/user-guide/deploying-your-docs)
-* [MkDocs Setup](https://squidfunk.github.io/mkdocs-material/setup)
-* [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started)
-* [MkDocs GitHub](https://github.com/squidfunk/mkdocs-material/tree/master)
-* [Turing Commons](https://alan-turing-institute.github.io/turing-commons)
-* [Turing Commons GitHub](https://github.com/alan-turing-institute/turing-commons/tree/main)
-
-### Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-### Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
 <br>
 <br>
