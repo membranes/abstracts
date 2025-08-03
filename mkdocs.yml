@@ -41,9 +41,9 @@ theme:
   icon:
     admonition:
       example: material/gate-alert
-    font:
-      text: Quantico
-      code: Iceland
+  font:
+    text: Quantico
+    code: Iceland
 
 
 # Watch
@@ -105,11 +105,12 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Hub: hub.md
-  - Background:
-      - Introduction: background-introduction.md
-      - An Application: background-application.md
-  - Development:
+  - Preliminaries:
+      - Aim: preliminaries-aim.md
+      - Assets: preliminaries-assets.md
+      - Application: preliminaries-application.md
+  - Model Development&#58; Rough Notes:
+      - Development Approach: development-approach.md
       - Data: development-data.md
       - Modelling: development-modelling.md
   - References: references.md
